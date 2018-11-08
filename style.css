@@ -3,29 +3,29 @@
     padding: 0;
     font-family: Arial, sans-serif;
 }
-.myblock
+.myblock {
     width: 400px;
     height: 200px;
     border: 3px solid black;
     border-radius: 4px;
     margin: 30px;
 }
-lemon {
+.lemon {
     width: 180px;
-    height: 180 px;
-    margin: 10;
-    background: url (https://cdn4.iconfinder.com/data/icons/Limon_iContainer/512/Grapefruit.png);
+    height: 180px;
+    margin: 10px;
+    background: url(https://cdn4.iconfinder.com/data/icons/Limon_iContainer/512/Grapefruit.png);
     background-size: contain;
-    background-position: 50 %;
-    border-radius: 5xp;
-    float: lert;
+    background-position: 50%;
+    border-radius: 5px;
+    float: left;
 }
 .about-lemon h3 {
-    text-align: centr;
-    padding: 10 px 0;
+    text-align: center;
+    padding: 10px 0;
 }
 .about-lemon p {
-    font-size: 12xp;
+    font-size: 12px;
     line-height: 150%;
     margin: 20px 0;
 }
